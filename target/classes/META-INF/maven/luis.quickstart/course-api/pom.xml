@@ -5,12 +5,12 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>Course API</name>
   
-  	<parent>
-		<groupId>org.springframework.boot</groupId>
-		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>1.5.10.RELEASE</version>
-		<relativePath/> <!-- lookup parent from repository -->
-	</parent>
+
+  <parent>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-parent</artifactId>
+    <version>1.5.10.RELEASE</version>
+  </parent>
   <dependencies>
   	<dependency>
   		<groupId>org.springframework.boot</groupId>
